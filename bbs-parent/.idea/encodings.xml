@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-service-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-service-cob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-service-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbs-service-solr" charset="UTF-8" />
+  </component>
+</project>

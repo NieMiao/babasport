@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bbs-common" />
+        <module name="bbs-console" />
+        <module name="bbs-dao" />
+        <module name="bbs-interface" />
+        <module name="bbs-login" />
+        <module name="bbs-pojo" />
+        <module name="bbs-portal" />
+        <module name="bbs-service-cms" />
+        <module name="bbs-service-cob" />
+        <module name="bbs-service-product" />
+        <module name="bbs-service-solr" />
+        <module name="bbsinterface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bbs-common" target="1.5" />
+      <module name="bbs-console" target="1.5" />
+      <module name="bbs-dao" target="1.5" />
+      <module name="bbs-interface" target="1.5" />
+      <module name="bbs-login" target="1.5" />
+      <module name="bbs-parent" target="1.5" />
+      <module name="bbs-pojo" target="1.5" />
+      <module name="bbs-portal" target="1.5" />
+      <module name="bbs-service-cms" target="1.5" />
+      <module name="bbs-service-cob" target="1.5" />
+      <module name="bbs-service-product" target="1.5" />
+      <module name="bbs-service-solr" target="1.5" />
+      <module name="bbsinterface" target="1.5" />
+      <module name="bos-interface" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

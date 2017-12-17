@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbs-common/bbs-common.iml" filepath="$PROJECT_DIR$/bbs-common/bbs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-console/bbs-console.iml" filepath="$PROJECT_DIR$/bbs-console/bbs-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-dao/bbs-dao.iml" filepath="$PROJECT_DIR$/bbs-dao/bbs-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-interface/bbs-interface.iml" filepath="$PROJECT_DIR$/bbs-interface/bbs-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-login/bbs-login.iml" filepath="$PROJECT_DIR$/bbs-login/bbs-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-parent.iml" filepath="$PROJECT_DIR$/bbs-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-pojo/bbs-pojo.iml" filepath="$PROJECT_DIR$/bbs-pojo/bbs-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-portal/bbs-portal.iml" filepath="$PROJECT_DIR$/bbs-portal/bbs-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-service-cms/bbs-service-cms.iml" filepath="$PROJECT_DIR$/bbs-service-cms/bbs-service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-service-cob/bbs-service-cob.iml" filepath="$PROJECT_DIR$/bbs-service-cob/bbs-service-cob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-service-product/bbs-service-product.iml" filepath="$PROJECT_DIR$/bbs-service-product/bbs-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-service-solr/bbs-service-solr.iml" filepath="$PROJECT_DIR$/bbs-service-solr/bbs-service-solr.iml" />
+    </modules>
+  </component>
+</project>

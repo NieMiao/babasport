@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bbs-service-cob:war">
+    <output-path>$PROJECT_DIR$/bbs-service-cob/target</output-path>
+    <root id="archive" name="bbs-service-cob.war">
+      <element id="artifact" artifact-name="bbs-service-cob:war exploded" />
+    </root>
+  </artifact>
+</component>
